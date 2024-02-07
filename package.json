@@ -1,0 +1,15 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "next": "^14.1.0",
+    "next-connect": "^1.0.0"
+  }
+}
